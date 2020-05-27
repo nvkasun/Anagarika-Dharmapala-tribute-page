@@ -48,3 +48,8 @@
   color: #ff0000;
   font-weight: bold;
 }
+
+#image{
+  max-width: 500px;
+  display: block;
+}
